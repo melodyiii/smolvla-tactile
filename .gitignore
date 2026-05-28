@@ -1,0 +1,36 @@
+# Checkpoints & outputs (too large for GitHub)
+outputs/
+runs/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+data/
+*.npy
+*.parquet
+*.mp4
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Training logs
+*.log
+
+# Accelerate configs
+multigpu_config.yaml
+multigpu_ddp_config.yaml

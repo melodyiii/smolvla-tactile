@@ -1,0 +1,9 @@
+seed: 0
+window_T: 16
+batch_size: 32
+accum_steps: 4
+lr: 3e-4
+weight_decay: 1e-4
+tau_init: 0.07
+epochs: 3
+amp: false
