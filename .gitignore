@@ -1,3 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Local artifacts
+data/
+outputs/
+train/
+*.pt
+*.safetensors
+*.ckpt
+eval_results.json
+
+# Secrets and local config
+.env
+*.token
+*.key
+
+# Generated caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 # Checkpoints & outputs (too large for GitHub)
 outputs/
 runs/
