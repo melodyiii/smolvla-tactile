@@ -1,3 +1,6 @@
+<img width="3728" height="2964" alt="setup_photo_inboxpicking" src="https://github.com/user-attachments/assets/b7871b1b-49a3-4534-a463-f31026ca5ccb" />
+<img width="1019" height="643" alt="5151d31fdab0c6a001ccef6d5bbbbe8b" src="https://github.com/user-attachments/assets/44a9c05e-5efa-44ae-9598-804ca5ffa0ec" />
+
 # smolvla-tactile
 
 SO-101 tactile data collection and real-robot deployment overlay for LeRobot.
@@ -141,3 +144,5 @@ bash scripts/run_eval.sh
 
 - This repository is an overlay publication repo, not a standalone replacement for LeRobot.
 - Some files originate from or modify Apache-2.0 licensed upstream LeRobot code. See `LICENSE`.
+
+
