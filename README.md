@@ -1,3 +1,6 @@
+
+<img width="3917" height="2721" alt="setup_photo_system" src="https://github.com/user-attachments/assets/db851dc4-3bd4-4141-a72d-2e8dcd1c1594" />
+
 <img width="3728" height="2964" alt="setup_photo_inboxpicking" src="https://github.com/user-attachments/assets/b7871b1b-49a3-4534-a463-f31026ca5ccb" />
 <img width="1019" height="643" alt="5151d31fdab0c6a001ccef6d5bbbbe8b" src="https://github.com/user-attachments/assets/44a9c05e-5efa-44ae-9598-804ca5ffa0ec" />
 
